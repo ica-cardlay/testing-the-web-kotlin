@@ -1,0 +1,10 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+config.properties
+gradle.properties
+/testsuite-nova/src/test/resources/downloads/
